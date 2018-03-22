@@ -1,0 +1,10 @@
+prefix=/opt/jubatus
+exec_prefix=${prefix}
+libdir=/opt/jubatus/lib
+includedir=${prefix}/include
+
+Name: jubatus
+Description: Client Library for Distributed Online Machine Learning
+Version: 0.9.1
+Cflags: -I${includedir}
+Libs: -L${libdir} -lmsgpack -ljubatus_mpio -ljubatus_msgpack-rpc

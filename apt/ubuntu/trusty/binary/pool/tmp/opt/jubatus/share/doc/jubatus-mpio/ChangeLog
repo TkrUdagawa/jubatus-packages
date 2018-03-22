@@ -1,0 +1,72 @@
+2014-10-20 version 0.4.5:
+
+  * Fix memory leak when client is disconnected before sending back results
+
+2014-09-29 version 0.4.4:
+
+  * Fix behavior when ::accept is failed
+
+2014-07-22 version 0.4.3:
+
+  * Add -pthread option
+  * Stop using -O4 option
+  * Support for OS X Mavericks
+  * Port to libc++
+
+2014-04-19 version 0.4.2:
+
+  * Fix fd leak when timerfd is disabled on Linux
+  * Fix event-loop dead-lock on single-large-async write
+
+2013-02-15 version 0.4.1:
+
+  * Fix header macro for clang
+  * Fix configure.in for clang with -O4 option
+  * Update autoconf script for distribution, exclude mplex sources
+
+2013-01-11 version 0.4.0:
+
+  * Forked from mpio.
+  * Renamed directory mp -> jubatus/mp
+  * Renamed libmpio -> libjubatus_mpio.
+  * Added ruby "-I." option to preprocess
+  * Added pthread_recursive_mutex
+
+2011-04-22 version 0.3.7:
+
+  * Added POSXI timer implementation that works on linux < 2.6.25 (Kohei++)
+
+2011-02-20 version 0.3.6:
+
+  * Fixes a potential dead-lock problem on wavy::loop::join
+
+2010-08-16 version 0.3.5:
+
+  * Adds wavy::loop::remove_handler
+  * Fixes SEGV on kqueue-based system
+
+2010-08-10 version 0.3.4:
+
+  * Fixes stream_buffer and shared_buffer
+
+2010-04-27 version 0.3.3:
+
+  * Add wavy::loop::flush()
+  * Add pthread_scoped_{,rd,wr}lock::owns()
+
+2010-04-15 version 0.3.2:
+
+  * Add ./configure --disable-timerfd and --disable-signalfd option
+  * Linux < 2.6.25 (mp::wavy::add_timer is not available) and
+    Linux < 2.6.22 (mp::wavy::add_signal is not available) are
+    limitedly supported.
+
+2010-04-15 version 0.3.1:
+
+  * Fixes build chain; Ruby is not required to build.
+  * add sync::get_mutex
+
+2010-04-12 version 0.3.0:
+
+  * First public release.
+

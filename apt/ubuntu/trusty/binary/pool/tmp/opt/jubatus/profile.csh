@@ -1,0 +1,7 @@
+setenv JUBATUS_HOME "/opt/jubatus"
+setenv PATH "${JUBATUS_HOME}/bin:${PATH}"
+setenv LD_LIBRARY_PATH "${JUBATUS_HOME}/lib:${LD_LIBRARY_PATH}"
+setenv LDFLAGS "-L${JUBATUS_HOME}/lib ${LDFLAGS}"
+setenv CPLUS_INCLUDE_PATH "${JUBATUS_HOME}/include:${CPLUS_INCLUDE_PATH}"
+setenv PKG_CONFIG_PATH "${JUBATUS_HOME}/lib/pkgconfig:${PKG_CONFIG_PATH}"
+setenv MANPATH "${JUBATUS_HOME}/share/man:${MANPATH}"

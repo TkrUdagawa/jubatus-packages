@@ -1,0 +1,285 @@
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 78289
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 0.8.9-1
+Depends: libc6 (>= 2.14), liblog4cxx10
+Filename: binary/pool/jubatus_0.8.9-1_amd64.deb
+Size: 13047252
+MD5sum: 70a1341bf1f68754944605250b11f7c9
+SHA1: d21e6f921d28132da48f88963bd5094496911977
+SHA256: 6cfa79ee6f04e2061545cc62a7fde86d3b6119831f0625b0a3aa4a771ed1d204
+SHA512: 0e61da74382815dd5c1fb56f9d65e84fb0d5e6cbc5865cb93c9c9f34017f6ee96c5e59b36db1981af9509e9e782d9df6765680c0a04dfe8db560d2a470f6ceea
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 78606
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 0.9.0-1
+Depends: libc6 (>= 2.14), liblog4cxx10
+Filename: binary/pool/jubatus_0.9.0-1_amd64.deb
+Size: 13095562
+MD5sum: 1de7392e16812317dd4578b73c28af16
+SHA1: 3e0f1c2e47a0de10026e1ced6615b4611f1f5227
+SHA256: 27c34a56a05f484685c9b4596e92c86c6ad1b07af0528f87c7c622971e16dcd0
+SHA512: e509a5494a3c513c106aa31a2019843466d4263d8023f06b9e2e2d5d119fe3edc4bf048949207047144084a1b0852f75336116a5183344d00f966570f762ebbb
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79236
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 0.9.1-1
+Depends: libc6 (>= 2.14), liblog4cxx10
+Filename: binary/pool/jubatus_0.9.1-1_amd64.deb
+Size: 13173110
+MD5sum: 658afe0e0538dc0b999ab6d0b9701afc
+SHA1: 735f9f8de82d1e88cfc45ab057256076038d3f80
+SHA256: f4fb31e546ef99b9cbfd1b5d85eb9744868deffaa5f577e1ee06531848dcb1c2
+SHA512: 1d524f63f38ae13648c0d7e656a40d56b281c4f938c8a9e0091b24fe12efc4956cb6972d7d425b659600fc397e20c230f5ddf180dc9e1dae43097311f06d6963
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79260
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 0.9.2-1
+Depends: libc6 (>= 2.14), liblog4cxx10
+Filename: binary/pool/jubatus_0.9.2-1_amd64.deb
+Size: 13174916
+MD5sum: 5dae77f641a98e9274d62737a132a221
+SHA1: 2ae9eeb15e6d2c7a45aec45d43c388f355202872
+SHA256: eac8cf837a1b89217a86d54a2e8870471a9ab812b7bf7617c2e129d8c7d09361
+SHA512: 032fd972d9b424332afdfecd30c7e77df97e0c9e939fe9e3e629638831ac3c2dde11279fabe640b6ac194ac9eecd6f3faca539fff4e5a9271c84a73df28fd255
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79265
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 0.9.3-1
+Depends: libc6 (>= 2.14), liblog4cxx10
+Filename: binary/pool/jubatus_0.9.3-1_amd64.deb
+Size: 13185176
+MD5sum: b829b3995741a77e6d159a341dd65d43
+SHA1: f59fc675bc7ee5b1f320a07644b8360357500d62
+SHA256: 342cc2850cb7649bab830fd348713a736de2ece88adf0f025149b098b6f110c7
+SHA512: 2454edeecfefb5e3f474a5df24c3894a5452d8340d00efcfa146c1c7c8f25147c053ea9b6f6f0da06ef58135a1cddfa8722b962c24b5fd49681f081363538f31
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79317
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 0.9.4-1
+Depends: libc6 (>= 2.14), liblog4cxx10
+Filename: binary/pool/jubatus_0.9.4-1_amd64.deb
+Size: 13197312
+MD5sum: 10e0753cf9e1648255fae96933aac8f5
+SHA1: 63ba0c1ab6f0e1eceafee059159e70be36721aa6
+SHA256: 5d1424aabd062bf01c9d1dac74a9189e7285bed69ee31c6e78403d44b1805b6f
+SHA512: 4642ee85a5f3b07335fe9555856319296b23d069343aa6fbcceef6400d5af1c378ee5f8eeec6554d010a2ce6291603069d47cb251c652a80d23bd1392b3bd035
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79786
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.0-1
+Depends: libc6 (>= 2.14), liblog4cxx10, libopencv-features2d2.4 | libopencv-features2d2.3
+Filename: binary/pool/jubatus_1.0.0-1_amd64.deb
+Size: 13245128
+MD5sum: 794ad0e7888a3dd3c1c1379eb70a2616
+SHA1: ff90b3e6c49cd51b8fb3a48d75943d77c70aaefc
+SHA256: 7963e79700b1e92898fbfe18e0da4b2d2d9809961ccabeb3779d9fbfee5d7b24
+SHA512: ca638cfe41a39633e4eec7e461f94005177fdbf560915a0ba86057d58f815059919c59a0bfac4808620f53878ea16762c6a77c9d4b3a696052ff068f8f604a81
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79385
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.1-1
+Depends: libc6 (>= 2.14), liblog4cxx10v5 | liblog4cxx10, libopencv-features2d2.4v5 | libopencv-features2d2.4 | libopencv-features2d2.3
+Filename: binary/pool/jubatus_1.0.1-1_amd64.deb
+Size: 13170992
+MD5sum: babe209bc8efcfc63a02bf3d49982917
+SHA1: e322857f5bf1582da0610457e713ed04f254ad0f
+SHA256: 76068b8dace70009faf58d8603c3f37a69f8172fd74cc5e3a490aeed120a9c19
+SHA512: 98b9fc927bdc6cff74cee99e6a4f0bec42fa9d3f10321536bd32dd357ff982b25efda03832d3ecdb56b1d2672f751d84473f45dd7aa88220bb6c404d8fcb5203
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79386
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.2-1
+Depends: libc6 (>= 2.14), liblog4cxx10v5 | liblog4cxx10, libopencv-features2d2.4v5 | libopencv-features2d2.4 | libopencv-features2d2.3
+Filename: binary/pool/jubatus_1.0.2-1_amd64.deb
+Size: 13175382
+MD5sum: 5f1a69bc1e2618582868748b00e25cef
+SHA1: ffd7910c582d51e57a8f46b0d1733a650954be4b
+SHA256: 2b4a3f5d05f25ecbc4e70db2a970893c54e307b6c6d66028e9eee794d3d306d3
+SHA512: 04a2b4a9b4feaba9e4a0ee4aa03cea5b898fe09dd0674cea32a7d16de143f81e50423b43ddd0ef545764c9c6c2ff16a773991669187df86932b91a5149c0a125
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79391
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.3-1
+Depends: libc6 (>= 2.14), liblog4cxx10v5 | liblog4cxx10, libopencv-features2d2.4v5 | libopencv-features2d2.4 | libopencv-features2d2.3
+Filename: binary/pool/jubatus_1.0.3-1_amd64.deb
+Size: 13159016
+MD5sum: 2e314e35f23c2a2cf4cdd3be76e9618f
+SHA1: e04ba56ac7f1457ca58177283cf8d9c4dba9b752
+SHA256: 3c6c1fc7dbe2133d1c746bf97339d973293faa307437d80e4f19e7d4f52c2513
+SHA512: 96d72611638278fdd1681cb3172916a7e57ee49788c190110b95d82a138c70ac17e393f17dfca4d041a2e9dd8dacbc5cf80f239fe832f9b0f12532129d7790cd
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79394
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.4-1
+Depends: libc6 (>= 2.14), liblog4cxx10v5 | liblog4cxx10, libopencv-features2d2.4v5 | libopencv-features2d2.4 | libopencv-features2d2.3
+Filename: binary/pool/jubatus_1.0.4-1_amd64.deb
+Size: 13165062
+MD5sum: 3fde0791f42a1fac3d1cf8866d88b843
+SHA1: 67631fe55e1b1ecf204c67915fd75e159a20453d
+SHA256: 99458a570d90e3a8d878529b1f4a5b63b6fb08406a3dae672a0910db68df8b33
+SHA512: 647f0a4fe3a20a48a42f467a586e9a59bd4b2ee95196b2864b5156ba11de74de30dcfec4972b11d03035941579c86b2a97f7027abf039768a15ced8223af88ef
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79658
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.5-1
+Depends: libc6 (>= 2.14), liblog4cxx10, libopencv-features2d2.4, libpython2.7
+Filename: binary/pool/jubatus_1.0.5-1_amd64.deb
+Size: 13276602
+MD5sum: daf76e1e028ccefc4d47074ae1f8366f
+SHA1: 9ab39921be10b56e889f7b3d6754b06f37405132
+SHA256: e65fd8c742ccf65b2e982eb637e8d3e682d5e685d872cc572b95bd8b36d0cbe5
+SHA512: 457dff3190d030b3561f4109aff45848dbfb03772c73134a2c36381b7fed6ad4126849e8c64db41365c00543bf47fba2d5a98117ab771bcf4062f2d6b3a69a68
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79697
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.6-1
+Depends: libc6 (>= 2.14), liblog4cxx10, libopencv-features2d2.4, libpython2.7
+Filename: binary/pool/jubatus_1.0.6-1_amd64.deb
+Size: 13235838
+MD5sum: 8d5c66df499f2c4feb42e1af0a2dbb89
+SHA1: d02e7c855061580605e87e92b0397d7f5ec972f5
+SHA256: 15fdbf41e6f22dd9b1c141af7f847f0b25c30df91dd9b43e2e8f170db7b73024
+SHA512: 6e6e5af94ab28b5dd2ebf23427610aac8f0572ef5023e32b2d2fb30e31bf9203a3d74fee6a82dce2cc83e82d7d0a2cd07d2b292293f96e8b57a1ba43311fc761
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79769
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.7-1
+Depends: libc6 (>= 2.14), liblog4cxx10, libopencv-features2d2.4, libopencv-highgui2.4, libpython2.7
+Filename: binary/pool/jubatus_1.0.7-1_amd64.deb
+Size: 13238872
+MD5sum: dfd27ef53c12ecb73c8e41ef06eff72c
+SHA1: b356e2933c7bbdd4b4f25658d8380b6265ae3aea
+SHA256: 7e7909eb9bf3076c333cefa5f774e46f62374b15963d7d7badc0b660b39f5f65
+SHA512: 1b54d3e2c43e4181e53baa20af994b7bbac4c6ab20baae393761e39095113d56eafa2b2e3868e1daad088c61634c3c036b7a63923d906ede8e4bea94c05743d4
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+
+Package: jubatus
+Priority: extra
+Section: misc
+Installed-Size: 79766
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Architecture: amd64
+Version: 1.0.8-1
+Depends: libc6 (>= 2.14), liblog4cxx10, libopencv-features2d2.4, libopencv-highgui2.4, libpython2.7
+Filename: binary/pool/jubatus_1.0.8-1_amd64.deb
+Size: 13252290
+MD5sum: ed9345b768a4bdfea43a2be49ca4683e
+SHA1: 3a3fe7caccd9f862a676d516696a59dc792f7b90
+SHA256: cd327c3bce59bc9a610d4652950c7eb49625b884bf0ba7fc859b074be8964746
+SHA512: 4fd7f1d7bc7945a85e27006512b6f4b301b85def8e47a6ff78d671652d7ac8f4c4fb929dc3f25ac1b37fdacaeb5df909ced3bdd7779b619ce5ee685eab320bd0
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+Homepage: http://jubat.us/
+

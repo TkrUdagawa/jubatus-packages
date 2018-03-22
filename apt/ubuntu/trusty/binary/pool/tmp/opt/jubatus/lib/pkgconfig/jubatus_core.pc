@@ -1,0 +1,10 @@
+prefix=/opt/jubatus
+exec_prefix=${prefix}
+libdir=/opt/jubatus/lib
+includedir=${prefix}/include
+
+Name: jubatus_core
+Description: Framework and Library for Distributed Online Machine Learning
+Version: 0.3.1
+Cflags: -I${includedir}
+Libs: -L${libdir} -ljubatus_core -lmsgpack -ljubatus_util_concurrent -ljubatus_util_data -ljubatus_util_lang -ljubatus_util_math -ljubatus_util_system -ljubatus_util_text

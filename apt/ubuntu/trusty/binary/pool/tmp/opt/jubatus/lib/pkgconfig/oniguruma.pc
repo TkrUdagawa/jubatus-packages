@@ -1,0 +1,14 @@
+prefix=/opt/jubatus
+exec_prefix=/opt/jubatus
+libdir=/opt/jubatus/lib
+includedir=/opt/jubatus/include
+datarootdir=/opt/jubatus/share
+datadir=/opt/jubatus/share
+
+Name: oniguruma
+Description: Regular expression library
+Version: 5.9.6
+Requires:
+Libs: -L${libdir} -lonig
+Cflags: -I${includedir}
+
